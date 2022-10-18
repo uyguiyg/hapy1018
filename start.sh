@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PORT=53854
-UUID=978e8958-5696-4c85-b2e6-2​​2a6db28d104
+UUID=3e3a77cd-4d8f-466e-a422-54a4254ccc8a
 WebPage=https://www.waseda.jp
 CaddyConfig=https://raw.githubusercontent.com/uyguiyg/hapy1018/main/etc/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/uyguiyg/hapy1018/main/etc/xray.json
