@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PORT=53854
-UUID=3e3a77cd-4d8f-466e-a422-54a4254ccc8a
+UUID=82aa29d0-df28-4a95-b426-ee5a2a4797f9
 WebPage=https://www.allsaints.ie
 CaddyConfig=https://raw.githubusercontent.com/uyguiyg/hapy1018/main/etc/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/uyguiyg/hapy1018/main/etc/xray.json
