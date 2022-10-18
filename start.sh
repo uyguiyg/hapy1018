@@ -2,7 +2,7 @@
 
 PORT=53854
 UUID=3e3a77cd-4d8f-466e-a422-54a4254ccc8a
-WebPage=https://www.waseda.jp
+WebPage=https://www.allsaints.ie
 CaddyConfig=https://raw.githubusercontent.com/uyguiyg/hapy1018/main/etc/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/uyguiyg/hapy1018/main/etc/xray.json
 Xray_Newv=`wget --no-check-certificate -qO- https://api.github.com/repos/XTLS/Xray-core/tags | grep 'name' | cut -d\" -f4 | head -1 | cut -b 2-`
