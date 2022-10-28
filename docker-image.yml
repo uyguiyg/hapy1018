@@ -12,6 +12,6 @@ jobs:
         uses: elgohr/Publish-Docker-Github-Action@master
         with:
           # 下方的name格式为：Docker Hub ID(替换成你的)/自定义镜像名称(test镜像名,替换成你的)
-          name: hapyday/ewrew28
+          name: hapytoay28/ewrew28
           username: '${{ secrets.DOCKER_USERNAME }}'
           password: '${{ secrets.DOCKER_PASSWORD }}'
